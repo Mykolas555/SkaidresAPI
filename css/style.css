@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(45deg, #ffc400, #db8a20) no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+#carouselExampleDark {
+  background: linear-gradient(45deg, #fffcf1, #c2bcb3) no-repeat;
+  width: 60rem;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.carousel-item {
+  width: 60%;
+  margin-left: 20% !important;
+  margin-right: 20% !important; }
+
+/*# sourceMappingURL=style.css.map */

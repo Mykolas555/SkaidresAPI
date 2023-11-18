@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient( 45deg, rgb(255, 196, 0), rgb(219, 138, 32)) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carouselExampleDark{
+    background: linear-gradient( 45deg, rgb(255, 252, 241), rgb(194, 188, 179)) no-repeat;
+    width: 60rem;
+    height: 20rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-inner{
+
+}
+.carousel-item{
+    width:60%;
+    margin-left: 20% !important;
+    margin-right: 20% !important;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    
+}
